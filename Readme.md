@@ -27,6 +27,7 @@ You change the print statement
 
 ### e. Include a copy of your Lowly Multimeter code in your lab write-up.
 
+[Multimeter Code]https://github.com/fpdaiber/IDD_Lab2/blob/master/Multimeter.ino
 
 
 ## Part C. Using a time-based digital sensor
