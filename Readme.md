@@ -20,9 +20,15 @@ Lab report for the IDD lab 1 by Fabio Daiber
 ### Upload a video of your working rotary encoder here.
 
 ## Part D. Make your Arduino sing!
-#### a. How would you change the code to make the song play twice as fast?
+##### a. How would you change the code to make the song play twice as fast?
 
-### b. What song is playing?
+You simply change noteDuration to less than a 1000
+```noteDuration = 500 ```
+
+#### b. What song is playing?
+
+It's the StarWars theme song
+
 
 ## Part E. Make your own timer
 ### a. Make a short video showing how your timer works, and what happens when time is up!
