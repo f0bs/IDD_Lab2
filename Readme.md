@@ -27,6 +27,8 @@ You change the print statement
 
 ### e. Include a copy of your Lowly Multimeter code in your lab write-up.
 
+[My Multimeter](https://drive.google.com/open?id=1K9EHW3xyOUSyLR97CkWMqE7F06eF7VRU)
+
 [Multimeter Code]https://github.com/fpdaiber/IDD_Lab2/blob/master/Multimeter.ino
 
 
@@ -34,6 +36,9 @@ You change the print statement
 ### Upload a video of your working rotary encoder here.
 
 ## Part D. Make your Arduino sing!
+
+![alt text](https://github.com/fpdaiber/IDD_Lab2/blob/master/IMG_2334.jpg)
+
 ##### a. How would you change the code to make the song play twice as fast?
 
 You simply change noteDuration to less than a 1000, e.g. 
@@ -46,6 +51,7 @@ to half the value to make it play twice as fast.
 
 It's the StarWars theme song
 
+[The Star Wars Song](https://drive.google.com/open?id=1fpYqc16HcLLLSjBfXQWl9Wdv9hQbqUeq)
 
 ## Part E. Make your own timer
 ### a. Make a short video showing how your timer works, and what happens when time is up!
