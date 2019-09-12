@@ -3,7 +3,7 @@
 Lab report for the IDD lab 1 by Fabio Daiber
 
 ## Part A. Solder your LCD panel
-### Take a picture of your soldered panel and add it here!
+![alt text](https://github.com/fpdaiber/IDD_Lab2/blob/master/IMG_2337.jpg)
 
 ## Part B. Writing to the LCD
 #### a. What voltage level do you need to power your display?
@@ -24,6 +24,8 @@ You change the print statement
 ```
   lcd.print("Fabio Daiber");
 ````
+
+![alt text](https://github.com/fpdaiber/IDD_Lab2/blob/master/IMG_2339.jpg)
 
 ### e. Include a copy of your Lowly Multimeter code in your lab write-up.
 
