@@ -22,7 +22,7 @@ Lab report for the IDD lab 1 by Fabio Daiber
 ## Part D. Make your Arduino sing!
 ##### a. How would you change the code to make the song play twice as fast?
 
-You simply change noteDuration to less than a 1000
+You simply change noteDuration to less than a 1000, e.g. 
 ```noteDuration = 500 ```
 
 #### b. What song is playing?
