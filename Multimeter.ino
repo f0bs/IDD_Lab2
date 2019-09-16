@@ -58,7 +58,7 @@ void setup() {
 void loop() {
   lcd.clear();
   voltage_value = analogRead(analogPin);
-  // print the number of seconds since reset:
+  // print current voltage:
   lcd.print("Current voltage");
     // set the cursor to column 0, line 1
   lcd.setCursor(0, 1);
