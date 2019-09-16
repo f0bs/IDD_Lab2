@@ -31,7 +31,7 @@ You change the print statement
 
 [My Multimeter](https://drive.google.com/open?id=1K9EHW3xyOUSyLR97CkWMqE7F06eF7VRU)
 
-[Multimeter Code]https://github.com/fpdaiber/IDD_Lab2/blob/master/Multimeter.ino
+[Multimeter Code](https://github.com/fpdaiber/IDD_Lab2/blob/master/Multimeter.ino)
 
 
 ## Part C. Using a time-based digital sensor
