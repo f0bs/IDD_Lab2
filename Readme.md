@@ -37,6 +37,9 @@ You change the print statement
 ## Part C. Using a time-based digital sensor
 ### Upload a video of your working rotary encoder here.
 
+I adapted the rotary code slightly, so that it also prints the counter on my LCD display, as shown in my video. Here is the code to it:
+[Custom rotary code](https://github.com/fpdaiber/IDD_Lab2/blob/master/Rotary_counter.ino)
+
 ## Part D. Make your Arduino sing!
 
 ![alt text](https://github.com/fpdaiber/IDD_Lab2/blob/master/IMG_2334.jpg)
