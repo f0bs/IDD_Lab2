@@ -1,6 +1,6 @@
 # Designing Interactive Devices Lab2: Digital Timer
 
-Lab report for the IDD lab 1 by Fabio Daiber
+Lab report for the IDD lab 2 by Fabio Daiber
 
 ## Part A. Solder your LCD panel
 ![alt text](https://github.com/fpdaiber/IDD_Lab2/blob/master/IMG_2337.jpg)
@@ -37,6 +37,8 @@ You change the print statement
 ## Part C. Using a time-based digital sensor
 ### Upload a video of your working rotary encoder here.
 
+[My Rotary Encoder Video](https://drive.google.com/open?id=16NYnVdigfccj3x3GUAWQHb7Oq5-uAKN2)
+
 I adapted the rotary code slightly, so that it also prints the counter on my LCD display, as shown in my video. Here is the code to it:
 [Custom rotary code](https://github.com/fpdaiber/IDD_Lab2/blob/master/Rotary_counter.ino)
 
@@ -61,4 +63,7 @@ It's the StarWars theme song
 ## Part E. Make your own timer
 ### a. Make a short video showing how your timer works, and what happens when time is up!
 
+[MyTimer Video](https://drive.google.com/file/d/1Kr_iSIc0bgryJma9MOmBUzpxKavGsbQQ/view?usp=sharing)
+
 ### b. Post a link to the completed lab report your class hub GitHub repo.
+[MyTimer Code](https://github.com/fpdaiber/IDD_Lab2/blob/master/Timer.ino)
