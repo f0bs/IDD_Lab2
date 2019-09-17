@@ -3,6 +3,8 @@
 Lab report for the IDD lab 2 by Fabio Daiber
 
 ## Part A. Solder your LCD panel
+
+Close-up of my soldering: 
 ![alt text](https://github.com/fpdaiber/IDD_Lab2/blob/master/IMG_2337.jpg)
 
 ## Part B. Writing to the LCD
